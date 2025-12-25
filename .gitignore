@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+
+# Angular
+.angular/
+.env
+
+# Java / Spring Boot
+target/
+*.class
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
