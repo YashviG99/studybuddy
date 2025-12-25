@@ -19,7 +19,7 @@ This project focuses on strong fundamentals such as clean backend APIs, frontend
 - **Frontend:** Angular  
 - **Backend:** Spring Boot (Java)  
 - **Database:** MySQL  
-- **Tools:** Git, GitHub  
+- **Tools:** Git, GitHub, Postman  
 
 ---
 
